@@ -43,11 +43,3 @@ The links in the sub-items respond to user actions:
 ## Preview
 
 ![To-Do List Screenshot](./ToDo-LIst.jpg)
-
-
-### Instructions for copying:
-1. Create a new file named `README.md` in the root directory of your repository.
-2. Copy the above markdown content into the `README.md` file.
-3. Commit and push the file to your GitHub repository.
-
-Let me know if you'd like help with any further adjustments!
