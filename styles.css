@@ -1,0 +1,58 @@
+html, body{
+    background-color: rgb(206, 209, 212);
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+.main-div{
+    background-color: whitesmoke;
+    height: 85%;
+    width: 30%;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 3%;
+    box-sizing: border-box;
+    padding: 1%;
+    padding-top: 0.5%;
+}
+
+#section-1{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.section-lists{
+    background-color: rgb(146, 219, 195);
+    height: 100px;
+    overflow: hidden;
+    width: auto;
+    display: block;
+    border-radius: 3%;
+    padding: 2%;
+    padding-top: 3%;
+    box-sizing: border-box;
+    margin-bottom: 3%;
+}
+
+.list-style{
+    list-style-type: square;
+    list-style-position: outside;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color:white;
+}
+a:focus{
+    outline: 1px solid red;
+}
+a:visited{
+    color: purple;
+}
+
