@@ -22,7 +22,7 @@ To view and use the project, you need:
 ## How to Use
 1. Clone or download the project to your local machine:
    ```bash
-   git clone <[repository_url](https://github.com/Muhammad-Kamran-Khan/todo-list/)>
+   git clone https://github.com/Muhammad-Kamran-Khan/todo-list/
 2. Open the `index.html` file in your web browser to view the application.
 3. To customize styles, edit the `styles.css` file.
 
